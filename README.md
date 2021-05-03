@@ -4,7 +4,7 @@
         </samp>
 </h3>
 
-<h2> Github Stats </h2> 
+<h2> Github Stats </h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 [![0xAya github stats](https://github-readme-stats.vercel.app/api?username=0xAya&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
