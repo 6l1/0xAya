@@ -11,4 +11,4 @@
 
 <a href="https://github.com/0xAya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAya&layout=compact&theme=cobalt" /></a>
 
-<h2> Github Stats <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width="40"></h2>
+<h2> Contributions <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width="40"></h2>
