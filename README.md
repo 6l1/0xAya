@@ -6,7 +6,7 @@
 
 <h2> Github Stats <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![0xAya github stats](https://github-readme-stats.vercel.app/api?username=0xAya&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![0xAya github stats](https://github-readme-stats.vercel.app/api?username=0xAya&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/0xAya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAya&layout=compact&theme=cobalt" /></a>
